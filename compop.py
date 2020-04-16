@@ -1,0 +1,7 @@
+print(5 < 6)
+print(6 < 2)
+print(9 >= 9)
+print(9 != 10)
+print(5 == 5)
+print("Hola" == "hola")
+print("hello" != "world")
